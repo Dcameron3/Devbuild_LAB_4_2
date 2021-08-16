@@ -1,0 +1,13 @@
+C:\Devbuild\Week6\DebuildLab_4.2\DebuildLab_4.2\bin\Debug\netcoreapp3.1\DebuildLab_4_3.exe
+C:\Devbuild\Week6\DebuildLab_4.2\DebuildLab_4.2\bin\Debug\netcoreapp3.1\DebuildLab_4_3.deps.json
+C:\Devbuild\Week6\DebuildLab_4.2\DebuildLab_4.2\bin\Debug\netcoreapp3.1\DebuildLab_4_3.runtimeconfig.json
+C:\Devbuild\Week6\DebuildLab_4.2\DebuildLab_4.2\bin\Debug\netcoreapp3.1\DebuildLab_4_3.runtimeconfig.dev.json
+C:\Devbuild\Week6\DebuildLab_4.2\DebuildLab_4.2\bin\Debug\netcoreapp3.1\DebuildLab_4_3.dll
+C:\Devbuild\Week6\DebuildLab_4.2\DebuildLab_4.2\bin\Debug\netcoreapp3.1\DebuildLab_4_3.pdb
+C:\Devbuild\Week6\DebuildLab_4.2\DebuildLab_4.2\obj\Debug\netcoreapp3.1\DebuildLab_4_3.AssemblyInfoInputs.cache
+C:\Devbuild\Week6\DebuildLab_4.2\DebuildLab_4.2\obj\Debug\netcoreapp3.1\DebuildLab_4_3.AssemblyInfo.cs
+C:\Devbuild\Week6\DebuildLab_4.2\DebuildLab_4.2\obj\Debug\netcoreapp3.1\DebuildLab_4_3.csproj.CoreCompileInputs.cache
+C:\Devbuild\Week6\DebuildLab_4.2\DebuildLab_4.2\obj\Debug\netcoreapp3.1\DebuildLab_4_3.dll
+C:\Devbuild\Week6\DebuildLab_4.2\DebuildLab_4.2\obj\Debug\netcoreapp3.1\DebuildLab_4_3.pdb
+C:\Devbuild\Week6\DebuildLab_4.2\DebuildLab_4.2\obj\Debug\netcoreapp3.1\DebuildLab_4_3.genruntimeconfig.cache
+C:\Devbuild\Week6\DebuildLab_4.2\DebuildLab_4.2\obj\Debug\netcoreapp3.1\DebuildLab_4_3.csproj.AssemblyReference.cache
